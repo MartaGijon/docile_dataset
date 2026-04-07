@@ -20,6 +20,11 @@ dependencies = [
     "ipywidgets>=8.1.8",
     "plotly>=6.6.0",
     "nbformat>=5.10.4",
+    "langchain>=1.2.13",
+    "dotenv>=0.9.9",
+    "ruff>=0.15.7",
+    "langchain-ollama>=1.0.1",
+    "langchain-openai>=1.1.12",
 ]
  
 [project.optional-dependencies]
