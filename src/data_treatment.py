@@ -1,6 +1,11 @@
 import json
 
 
+# ---------------------------------------------
+# DOCILE DATASET
+# ---------------------------------------------
+
+
 def clean_annotations(json_path):
     """
     Clean annotations so only data from table and not data related to structure remain.
@@ -19,7 +24,7 @@ def clean_annotations(json_path):
     return {"extractions": clean_annotation}
 
 
-def change_fieltypes(clean_annotation):
+def change_fieldtypes(clean_annotation):
     """
     Changes keys from clean annotations file, so "line_item_" is removed from keys.
     """

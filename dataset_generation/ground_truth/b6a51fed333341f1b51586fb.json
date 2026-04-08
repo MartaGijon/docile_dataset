@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+            "position": 1,
+            "quantity": 8,
+            "unit_price_gross": 63.0
+        },
+        {
+            "position": 2,
+            "quantity": 6,
+            "unit_price_gross": 63.0
+        },
+        {
+            "position": 3,
+            "quantity": 8,
+            "unit_price_gross": 63.0
+        }
+    ]
+}

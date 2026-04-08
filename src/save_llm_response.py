@@ -16,13 +16,13 @@ def save_llm_output(response, file_name):
 
     # 2. Define the contents
     # Content 1: Prompt saved as a Python variable
-    prompt_content = str(response["query"])
+    prompt_content = f"query= '{str(response.query)}'"
 
     # Content 2: Pydantic classes with their necessary imports
-    pydantic_content = response["pydantic_model"]
+    pydantic_content = response.pydantic_model
 
     # Content 3: Original Ground Truth dictionary
-    ground_truth_data = response["ground_truth_json"]
+    ground_truth_data = response.ground_truth_json
 
     # 3. Full file paths
     prompt_path = os.path.join(folders["prompts"], f"{file_name}.py")
