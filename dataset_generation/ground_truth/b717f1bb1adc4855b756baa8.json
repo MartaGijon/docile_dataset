@@ -1,0 +1,29 @@
+{
+    "items": [
+        {
+            "description": "TODAY SHOW",
+            "unit_price_gross": 56.0,
+            "price_gross": 56.0
+        },
+        {
+            "description": "EVENING REPORT M/F",
+            "unit_price_gross": 170.0,
+            "price_gross": 170.0
+        },
+        {
+            "description": "THE VOICE",
+            "unit_price_gross": 168.0,
+            "price_gross": 168.0
+        },
+        {
+            "description": "SATURDAY NIGHT LIVE",
+            "unit_price_gross": 70.0,
+            "price_gross": 70.0
+        },
+        {
+            "description": "NFL BUCCANEERS V RAIDERS",
+            "unit_price_gross": 350.0,
+            "price_gross": 350.0
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+            "description": "TODAY IN ALABAMA IV",
+            "unit_price_gross": 200.0,
+            "price_gross": 200.0
+        },
+        {
+            "description": "TODAY SHOW",
+            "unit_price_gross": 130.0,
+            "price_gross": 130.0
+        },
+        {
+            "description": "JUDGE JUDY II",
+            "unit_price_gross": 75.0,
+            "price_gross": 75.0
+        }
+    ]
+}

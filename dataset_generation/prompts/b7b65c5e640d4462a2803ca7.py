@@ -1,0 +1,1 @@
+query = """Retrieve all transactions where the description contains 'M-F' and select the position, start date, end date, description, quantity, and unit price, ensuring we only include lines with a quantity greater than 1."""

@@ -1,0 +1,29 @@
+{
+    "transactions": [
+        {
+            "date": "10/27/20",
+            "quantity": 4,
+            "price_gross": 120.0
+        },
+        {
+            "date": "10/28/20",
+            "quantity": 4,
+            "price_gross": 120.0
+        },
+        {
+            "date": "10/29/20",
+            "quantity": 4,
+            "price_gross": 120.0
+        },
+        {
+            "date": "10/30/20",
+            "quantity": 4,
+            "price_gross": 120.0
+        },
+        {
+            "date": "11/02/20",
+            "quantity": 2,
+            "price_gross": 60.0
+        }
+    ]
+}

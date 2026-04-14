@@ -1,0 +1,16 @@
+{
+    "transactions": [
+        {
+            "code": "115026/S",
+            "description": "CHR INDIANAPOLIS",
+            "unit_price_gross": 168.0,
+            "price_gross": 201.6
+        },
+        {
+            "code": "115025/S",
+            "description": "CHR INDIANAPOLIS",
+            "unit_price_gross": 912.0,
+            "price_gross": 1094.4
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "features": [
+        {
+            "histology_type": "Ca ductale",
+            "genetic_group": "BRCA1",
+            "count": 37,
+            "percentage": 72.5
+        },
+        {
+            "histology_type": "Ca ductale",
+            "genetic_group": "BRCA2",
+            "count": 37,
+            "percentage": 62.7
+        },
+        {
+            "histology_type": "Ca lobulare",
+            "genetic_group": "BRCA1",
+            "count": 8,
+            "percentage": 15.7
+        },
+        {
+            "histology_type": "Ca lobulare",
+            "genetic_group": "BRCA2",
+            "count": 17,
+            "percentage": 28.8
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "samples": [
+        {
+            "sample_id": "NAF-1",
+            "cell_type": "NAF",
+            "igf_ii_level": 11.63,
+            "mean_igf_ii_level": null
+        },
+        {
+            "sample_id": "NAF-2",
+            "cell_type": "NAF",
+            "igf_ii_level": 6.87,
+            "mean_igf_ii_level": null
+        },
+        {
+            "sample_id": "NAF-3",
+            "cell_type": "NAF",
+            "igf_ii_level": 10.31,
+            "mean_igf_ii_level": null
+        }
+    ]
+}

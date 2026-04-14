@@ -1,0 +1,14 @@
+{
+    "slots": [
+        {
+            "description": "M/F AM Drive",
+            "price_gross": 1950.0,
+            "unit_price_gross": 130.0
+        },
+        {
+            "description": "M/F Midday",
+            "price_gross": 2400.0,
+            "unit_price_gross": 120.0
+        }
+    ]
+}

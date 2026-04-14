@@ -1,0 +1,9 @@
+{
+    "records": [
+        {
+            "log_odds_range": "-3 < L <= -2",
+            "number_of_patients": 17619,
+            "breast_cancer_mortality_rate": 8.0
+        }
+    ]
+}

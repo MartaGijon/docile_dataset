@@ -1,0 +1,22 @@
+{
+    "items": [
+        {
+            "position": 5,
+            "start_date": "10/17/20",
+            "unit_price_gross": 9.0,
+            "price_gross": 54.0
+        },
+        {
+            "position": 6,
+            "start_date": "10/18/20",
+            "unit_price_gross": 9.0,
+            "price_gross": 54.0
+        },
+        {
+            "position": 8,
+            "start_date": "10/19/20",
+            "unit_price_gross": 11.0,
+            "price_gross": 55.0
+        }
+    ]
+}

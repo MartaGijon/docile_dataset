@@ -1,0 +1,24 @@
+{
+    "items": [
+        {
+            "description": "Digital Illustrations",
+            "quantity": 5,
+            "amount_net": 100.0
+        },
+        {
+            "description": "Floppy Disk",
+            "quantity": 1,
+            "amount_net": 5.0
+        },
+        {
+            "description": "Download / 1 MB",
+            "quantity": 1,
+            "amount_net": 10.0
+        },
+        {
+            "description": "B&W Laser Output 8.5 x 11",
+            "quantity": 4,
+            "amount_net": 12.0
+        }
+    ]
+}

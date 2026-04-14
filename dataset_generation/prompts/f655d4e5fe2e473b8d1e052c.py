@@ -1,0 +1,1 @@
+query = """Retrieve the product code, description, and net amount for all cigarette items (where the description contains 'BOX' or 'FILTER') that have a net amount greater than $50, excluding snack items."""

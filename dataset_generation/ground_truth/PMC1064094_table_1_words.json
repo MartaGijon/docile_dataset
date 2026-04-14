@@ -1,0 +1,17 @@
+{
+    "records": [
+        {
+            "carcinoma_status": "Carcinoma+",
+            "nipple_status": "nipple-",
+            "pair_count": 8,
+            "hpv_types": [
+                "6",
+                "11",
+                "24",
+                "87",
+                "DL250",
+                "DL473"
+            ]
+        }
+    ]
+}

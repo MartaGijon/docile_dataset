@@ -1,0 +1,1 @@
+query = """Retrieve all arbitration-related service transactions where the description mentions 'arbitration' or 'deliberations', and select the description, quantity, unit price, and total price, excluding general expense line items like travel or copying."""

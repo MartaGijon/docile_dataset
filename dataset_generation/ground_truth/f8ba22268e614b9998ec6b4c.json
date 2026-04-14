@@ -1,0 +1,19 @@
+{
+    "lines": [
+        {
+            "start_date": "10/22/18",
+            "end_date": "11/05/18",
+            "unit_price_gross": 45.0
+        },
+        {
+            "start_date": "10/22/18",
+            "end_date": "11/04/18",
+            "unit_price_gross": 75.0
+        },
+        {
+            "start_date": "10/22/18",
+            "end_date": "11/05/18",
+            "unit_price_gross": 150.0
+        }
+    ]
+}

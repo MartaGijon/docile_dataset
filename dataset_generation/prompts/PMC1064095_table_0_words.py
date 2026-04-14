@@ -1,0 +1,1 @@
+query = """Retrieve the odds ratios and 95% confidence intervals for breast cancer risk associated with high total PCB levels (≥0.430 ng/ml) in African American women who have the CYP1A1 M1 genotype, specifically for the premenopausal subgroup."""

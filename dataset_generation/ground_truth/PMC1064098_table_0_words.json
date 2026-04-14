@@ -1,0 +1,16 @@
+{
+    "records": [
+        {
+            "culture_group": "NAF-1 + MCF10A",
+            "sample_size": 7,
+            "mean_index": 21.9,
+            "standard_error": 4.2
+        },
+        {
+            "culture_group": "CAF-1 + MCF10A",
+            "sample_size": 8,
+            "mean_index": 15.2,
+            "standard_error": 2.0
+        }
+    ]
+}

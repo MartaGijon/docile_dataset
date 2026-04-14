@@ -1,0 +1,52 @@
+{
+    "shifts": [
+        {
+            "description": "Sa 6:00A/10:00A",
+            "quantity": 1,
+            "unit_price_gross": 50.0,
+            "price_gross": 50.0
+        },
+        {
+            "description": "Sa 10:00A/3:00P",
+            "quantity": 1,
+            "unit_price_gross": 135.0,
+            "price_gross": 135.0
+        },
+        {
+            "description": "Sa 3:00P/7:00P",
+            "quantity": 1,
+            "unit_price_gross": 135.0,
+            "price_gross": 135.0
+        },
+        {
+            "description": "Sa 7:00P/12:00A",
+            "quantity": 1,
+            "unit_price_gross": 50.0,
+            "price_gross": 50.0
+        },
+        {
+            "description": "Su 6:00A/10:00A",
+            "quantity": 1,
+            "unit_price_gross": 45.0,
+            "price_gross": 45.0
+        },
+        {
+            "description": "Su 10:00A/3:00P",
+            "quantity": 1,
+            "unit_price_gross": 75.0,
+            "price_gross": 75.0
+        },
+        {
+            "description": "Su 3:00P/7:00P",
+            "quantity": 1,
+            "unit_price_gross": 85.0,
+            "price_gross": 85.0
+        },
+        {
+            "description": "Su 7:00P/12:00A",
+            "quantity": 1,
+            "unit_price_gross": 35.0,
+            "price_gross": 35.0
+        }
+    ]
+}

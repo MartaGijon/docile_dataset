@@ -1,0 +1,9 @@
+{
+    "records": [
+        {
+            "involved_nodes_range": "11-20",
+            "patients_at_risk": 6350,
+            "breast_cancer_mortality_pct": 15.7
+        }
+    ]
+}

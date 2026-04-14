@@ -1,0 +1,44 @@
+{
+    "transactions": [
+        {
+            "transaction_date": "2018/05/01",
+            "unit_price_gross": 3.0
+        },
+        {
+            "transaction_date": "2018/05/01",
+            "unit_price_gross": 3.0
+        },
+        {
+            "transaction_date": "2018/05/02",
+            "unit_price_gross": 3.0
+        },
+        {
+            "transaction_date": "2018/05/03",
+            "unit_price_gross": 3.0
+        },
+        {
+            "transaction_date": "2018/05/04",
+            "unit_price_gross": 3.0
+        },
+        {
+            "transaction_date": "2018/05/04",
+            "unit_price_gross": 3.0
+        },
+        {
+            "transaction_date": "2018/05/07",
+            "unit_price_gross": 3.0
+        },
+        {
+            "transaction_date": "2018/05/08",
+            "unit_price_gross": 3.0
+        },
+        {
+            "transaction_date": "2018/05/09",
+            "unit_price_gross": 3.0
+        },
+        {
+            "transaction_date": "2018/05/09",
+            "unit_price_gross": 3.0
+        }
+    ]
+}

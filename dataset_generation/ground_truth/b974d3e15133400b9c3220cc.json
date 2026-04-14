@@ -1,0 +1,22 @@
+{
+    "items": [
+        {
+            "transaction_date": "2021/05/13",
+            "quantity": 2,
+            "unit_price_gross": 80.0,
+            "price_gross": 160.0
+        },
+        {
+            "transaction_date": "2021/05/14",
+            "quantity": 2,
+            "unit_price_gross": 80.0,
+            "price_gross": 160.0
+        },
+        {
+            "transaction_date": "2021/05/17",
+            "quantity": 2,
+            "unit_price_gross": 80.0,
+            "price_gross": 160.0
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "items": [
+        {
+            "description": "BIG BANG",
+            "unit_price_gross": 375.0,
+            "price_gross": 1875.0
+        },
+        {
+            "description": "BIG BANG",
+            "unit_price_gross": 900.0,
+            "price_gross": 4500.0
+        },
+        {
+            "description": "2.5 MEN",
+            "unit_price_gross": 900.0,
+            "price_gross": 4500.0
+        },
+        {
+            "description": "SEINFELD",
+            "unit_price_gross": 270.0,
+            "price_gross": 1350.0
+        },
+        {
+            "description": "NEWS",
+            "unit_price_gross": 800.0,
+            "price_gross": 4000.0
+        }
+    ]
+}

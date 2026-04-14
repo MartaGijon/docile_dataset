@@ -1,0 +1,1 @@
+query = """Retrieve all line items for the 'KXL' radio station series that occurred during the July 26-29 and August 1 dates, selecting only the description, quantity, and total gross price for each entry."""

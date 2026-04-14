@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+            "description": "Las Vegas (KVCW)",
+            "code": "Normal Line / SPOT (1)",
+            "price_gross": 500.0
+        },
+        {
+            "description": "Las Vegas (KVCW)",
+            "code": "Normal Line / SPOT (3)",
+            "price_gross": 500.0
+        },
+        {
+            "description": "Las Vegas (KVCW)",
+            "code": "Normal Line / SPOT (3)",
+            "price_gross": 500.0
+        }
+    ]
+}

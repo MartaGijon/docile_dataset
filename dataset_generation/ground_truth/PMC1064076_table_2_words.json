@@ -1,0 +1,20 @@
+{
+    "risks": [
+        {
+            "menopausal_status": "Postmenopausal",
+            "bmi_category": "> Median",
+            "genotype": "Val/Ala",
+            "cases_controls": "46/50",
+            "odds_ratio": 1.0,
+            "confidence_interval": "(0.6-1.6)"
+        },
+        {
+            "menopausal_status": "Postmenopausal",
+            "bmi_category": "> Median",
+            "genotype": "Ala/Ala",
+            "cases_controls": "3/4",
+            "odds_ratio": 0.8,
+            "confidence_interval": "(0.2-3.7)"
+        }
+    ]
+}

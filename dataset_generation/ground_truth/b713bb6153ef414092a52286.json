@@ -1,0 +1,32 @@
+{
+    "items": [
+        {
+            "position": 1,
+            "start_date": "2019/11/01",
+            "end_date": "2019/11/05",
+            "quantity": 6,
+            "unit_price_gross": 80.0
+        },
+        {
+            "position": 2,
+            "start_date": "2019/11/02",
+            "end_date": "2019/11/02",
+            "quantity": 4,
+            "unit_price_gross": 45.0
+        },
+        {
+            "position": 3,
+            "start_date": "2019/11/03",
+            "end_date": "2019/11/03",
+            "quantity": 4,
+            "unit_price_gross": 45.0
+        },
+        {
+            "position": 4,
+            "start_date": "2019/11/01",
+            "end_date": "2019/11/05",
+            "quantity": 3,
+            "unit_price_gross": 80.0
+        }
+    ]
+}

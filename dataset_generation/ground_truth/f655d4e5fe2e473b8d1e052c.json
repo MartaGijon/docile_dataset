@@ -1,0 +1,94 @@
+{
+    "transactions": [
+        {
+            "code": "0004",
+            "description": "LUCKY STRIKE REG",
+            "amount_net": 122.6,
+            "unit_price_net": 30.65
+        },
+        {
+            "code": "0090",
+            "description": "CAMEL FILTER BOX KS",
+            "amount_net": 61.3,
+            "unit_price_net": 30.65
+        },
+        {
+            "code": "0082",
+            "description": "CAMEL LIGHT BOX KS",
+            "amount_net": 91.95,
+            "unit_price_net": 30.65
+        },
+        {
+            "code": "0106",
+            "description": "KOOL FILTER BOX KS",
+            "amount_net": 61.3,
+            "unit_price_net": 30.65
+        },
+        {
+            "code": "0116",
+            "description": "MARLBORO BOX KS",
+            "amount_net": 459.75,
+            "unit_price_net": 30.65
+        },
+        {
+            "code": "0113",
+            "description": "MARLBORO LT BOX KG",
+            "amount_net": 306.5,
+            "unit_price_net": 30.65
+        },
+        {
+            "code": "0112",
+            "description": "MARLBORO LT/MEN BX",
+            "amount_net": 91.95,
+            "unit_price_net": 30.65
+        },
+        {
+            "code": "0013",
+            "description": "MARLBORO MED BOX KG",
+            "amount_net": 153.25,
+            "unit_price_net": 30.65
+        },
+        {
+            "code": "0126",
+            "description": "NEWPORT BX KS",
+            "amount_net": 122.6,
+            "unit_price_net": 30.65
+        },
+        {
+            "code": "0158",
+            "description": "WINSTON BX KS",
+            "amount_net": 61.3,
+            "unit_price_net": 30.65
+        },
+        {
+            "code": "0332",
+            "description": "MARLBORO LT BOX 100",
+            "amount_net": 153.25,
+            "unit_price_net": 30.65
+        },
+        {
+            "code": "0341",
+            "description": "NEWPORT BX 100",
+            "amount_net": 61.3,
+            "unit_price_net": 30.65
+        },
+        {
+            "code": "0173",
+            "description": "GPC FILTER BX 100",
+            "amount_net": 142.85,
+            "unit_price_net": 28.57
+        },
+        {
+            "code": "0610",
+            "description": "BASIC FILER BOX KS",
+            "amount_net": 57.14,
+            "unit_price_net": 28.57
+        },
+        {
+            "code": "0612",
+            "description": "BASIC LT BOX KS",
+            "amount_net": 57.14,
+            "unit_price_net": 28.57
+        }
+    ]
+}

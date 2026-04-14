@@ -1,0 +1,16 @@
+{
+    "metrics": [
+        {
+            "radiotracer_name": "99mTc-(V)DMSA",
+            "patient_subgroup": "Head-to-head patients",
+            "metric_type": "Sensitivity",
+            "value_percentage": 92.0
+        },
+        {
+            "radiotracer_name": "99mTc-(V)DMSA",
+            "patient_subgroup": "Head-to-head patients",
+            "metric_type": "Specificity",
+            "value_percentage": 91.0
+        }
+    ]
+}

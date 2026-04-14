@@ -1,0 +1,12 @@
+{
+    "records": [
+        {
+            "age_group": "23-27",
+            "case_count": 87,
+            "control_count": 49,
+            "minimally_adjusted_or": 3.0,
+            "confidence_interval_lower": 1.8,
+            "confidence_interval_upper": 5.0
+        }
+    ]
+}

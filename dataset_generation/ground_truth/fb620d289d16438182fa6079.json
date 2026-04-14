@@ -1,0 +1,20 @@
+{
+    "items": [
+        {
+            "description": "ROANOKE WROV/FM",
+            "start_date": "01/22/20",
+            "end_date": "01/24/20",
+            "quantity": 1,
+            "unit_price_gross": 113.0,
+            "price_gross": 904.0
+        },
+        {
+            "description": "ROANOKE WROV/FM",
+            "start_date": "01/22/20",
+            "end_date": "01/24/20",
+            "quantity": 1,
+            "unit_price_gross": 107.0,
+            "price_gross": 856.0
+        }
+    ]
+}

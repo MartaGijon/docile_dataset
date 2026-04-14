@@ -1,0 +1,19 @@
+{
+    "transactions": [
+        {
+            "start_date": "04/14/16",
+            "end_date": "04/19/16",
+            "unit_price_gross": 25.0
+        },
+        {
+            "start_date": "04/14/16",
+            "end_date": "04/19/16",
+            "unit_price_gross": 30.0
+        },
+        {
+            "start_date": "04/14/16",
+            "end_date": "04/19/16",
+            "unit_price_gross": 50.0
+        }
+    ]
+}

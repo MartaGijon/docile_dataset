@@ -1,0 +1,11 @@
+{
+    "data": [
+        {
+            "genotype": "Ala/Ala",
+            "cases_count": 7,
+            "cases_percentage": 1.9,
+            "odds_ratio": 0.8,
+            "confidence_interval": "0.3-2.0"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "entries": [
+        {
+            "model_id": 2,
+            "nodal_variable": "np",
+            "hazard_ratio": 1.093,
+            "confidence_interval_lower": 1.09,
+            "confidence_interval_upper": 1.097
+        },
+        {
+            "model_id": 6,
+            "nodal_variable": "L",
+            "hazard_ratio": 1.459,
+            "confidence_interval_lower": 1.442,
+            "confidence_interval_upper": 1.477
+        },
+        {
+            "model_id": 9,
+            "nodal_variable": "np",
+            "hazard_ratio": 0.998,
+            "confidence_interval_lower": 0.992,
+            "confidence_interval_upper": 1.005
+        },
+        {
+            "model_id": 2,
+            "nodal_variable": "np",
+            "hazard_ratio": 1.066,
+            "confidence_interval_lower": 1.062,
+            "confidence_interval_upper": 1.071
+        },
+        {
+            "model_id": 6,
+            "nodal_variable": "L",
+            "hazard_ratio": 1.379,
+            "confidence_interval_lower": 1.355,
+            "confidence_interval_upper": 1.403
+        },
+        {
+            "model_id": 9,
+            "nodal_variable": "np",
+            "hazard_ratio": 1.008,
+            "confidence_interval_lower": 1.001,
+            "confidence_interval_upper": 1.016
+        },
+        {
+            "model_id": 6,
+            "nodal_variable": "L",
+            "hazard_ratio": 1.15,
+            "confidence_interval_lower": 1.058,
+            "confidence_interval_upper": 1.249
+        }
+    ]
+}

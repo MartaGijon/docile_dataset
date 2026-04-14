@@ -1,0 +1,40 @@
+{
+    "spots": [
+        {
+            "description": "Sa Today Show",
+            "quantity": 2,
+            "unit_price_gross": 20.0,
+            "price_gross": 40.0
+        },
+        {
+            "description": "Big Bang Theory // Big Bang",
+            "quantity": 2,
+            "unit_price_gross": 45.0,
+            "price_gross": 90.0
+        },
+        {
+            "description": "Sa/Su NBC 16 News at 11pm",
+            "quantity": 2,
+            "unit_price_gross": 55.0,
+            "price_gross": 110.0
+        },
+        {
+            "description": "Saturday Night Live",
+            "quantity": 2,
+            "unit_price_gross": 80.0,
+            "price_gross": 160.0
+        },
+        {
+            "description": "Su Today Show",
+            "quantity": 2,
+            "unit_price_gross": 20.0,
+            "price_gross": 40.0
+        },
+        {
+            "description": "Sa/Su NBC 16 News at 11pm",
+            "quantity": 2,
+            "unit_price_gross": 75.0,
+            "price_gross": 150.0
+        }
+    ]
+}

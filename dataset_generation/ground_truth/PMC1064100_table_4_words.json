@@ -1,0 +1,13 @@
+{
+    "statistics": [
+        {
+            "variant_name": "CYP19",
+            "allele": "(TTTA)\u226510",
+            "model_type": "Additive",
+            "mothers_test_statistic": 1.73,
+            "mothers_p_value": 0.04,
+            "fathers_test_statistic": 0.95,
+            "fathers_p_value": 0.17
+        }
+    ]
+}

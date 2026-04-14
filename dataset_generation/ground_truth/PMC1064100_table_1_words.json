@@ -1,0 +1,12 @@
+{
+    "records": [
+        {
+            "gene_variant": "CYP17 1/0",
+            "mother_status": "Carrier",
+            "father_status": "Non-carrier",
+            "affected_daughters": 0,
+            "unaffected_daughters": 19,
+            "total_daughters": 19
+        }
+    ]
+}

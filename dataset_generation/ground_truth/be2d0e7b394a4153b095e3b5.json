@@ -1,0 +1,44 @@
+{
+    "transactions": [
+        {
+            "description": "Marlboro Lights 20",
+            "unit_price_gross": 49.9,
+            "price_gross": 199.6
+        },
+        {
+            "description": "Marlboro 20",
+            "unit_price_gross": 49.9,
+            "price_gross": 199.6
+        },
+        {
+            "description": "Marlboro Ligh.20 100's",
+            "unit_price_gross": 49.9,
+            "price_gross": 199.6
+        },
+        {
+            "description": "Marlboro Lights 10",
+            "unit_price_gross": 49.9,
+            "price_gross": 199.6
+        },
+        {
+            "description": "Marlboro 10",
+            "unit_price_gross": 49.9,
+            "price_gross": 199.6
+        },
+        {
+            "description": "Marlboro 20 100's",
+            "unit_price_gross": 49.9,
+            "price_gross": 199.6
+        },
+        {
+            "description": "Marlboro Lights Menthol",
+            "unit_price_gross": 49.9,
+            "price_gross": 199.6
+        },
+        {
+            "description": "Marlboro Medium 20",
+            "unit_price_gross": 49.9,
+            "price_gross": 199.6
+        }
+    ]
+}

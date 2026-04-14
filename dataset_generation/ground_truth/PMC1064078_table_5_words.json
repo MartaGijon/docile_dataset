@@ -1,0 +1,13 @@
+{
+    "records": [
+        {
+            "age_group": "23-27",
+            "race": "African-American",
+            "case_count": 28,
+            "control_count": 28,
+            "odds_ratio": 1.9,
+            "ci_lower": 0.9,
+            "ci_upper": 4.3
+        }
+    ]
+}

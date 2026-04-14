@@ -1,0 +1,18 @@
+{
+    "parameters": [
+        {
+            "condition": "ND",
+            "vmax": 19.6,
+            "vmax_std_error": 0.75,
+            "k_prime_h": 0.15,
+            "k_prime_h_std_error": 0.02
+        },
+        {
+            "condition": "D",
+            "vmax": 26.2,
+            "vmax_std_error": 0.86,
+            "k_prime_h": 0.113,
+            "k_prime_h_std_error": 0.05
+        }
+    ]
+}

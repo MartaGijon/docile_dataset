@@ -1,0 +1,40 @@
+{
+    "records": [
+        {
+            "dataset_name": "Maternal age dataset",
+            "exposure_type": "Birth order",
+            "race_group": "African-American",
+            "cases_count": 107,
+            "cases_percentage": 31.9,
+            "controls_count": 116,
+            "controls_percentage": 34.9
+        },
+        {
+            "dataset_name": "Maternal age dataset",
+            "exposure_type": "Birth order",
+            "race_group": "White",
+            "cases_count": 173,
+            "cases_percentage": 32.9,
+            "controls_count": 121,
+            "controls_percentage": 26.4
+        },
+        {
+            "dataset_name": "Maternal age dataset",
+            "exposure_type": "Maternal age",
+            "race_group": "African-American",
+            "cases_count": 95,
+            "cases_percentage": 28.4,
+            "controls_count": 100,
+            "controls_percentage": 30.1
+        },
+        {
+            "dataset_name": "Maternal age dataset",
+            "exposure_type": "Maternal age",
+            "race_group": "White",
+            "cases_count": 171,
+            "cases_percentage": 32.5,
+            "controls_count": 118,
+            "controls_percentage": 25.8
+        }
+    ]
+}

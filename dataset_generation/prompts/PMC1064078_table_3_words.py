@@ -1,0 +1,1 @@
+query = """Retrieve the odds ratios and 95% confidence intervals for breast cancer among African-American women in the lower birthweight tertile from the fully adjusted model, excluding the reference group."""

@@ -1,0 +1,54 @@
+{
+    "items": [
+        {
+            "description": "KWWL 4a News",
+            "unit_price_gross": 5.0,
+            "price_gross": 25.0
+        },
+        {
+            "description": "KWWL 4:30a News",
+            "unit_price_gross": 15.0,
+            "price_gross": 75.0
+        },
+        {
+            "description": "KWWL 6a News",
+            "unit_price_gross": 300.0,
+            "price_gross": 600.0
+        },
+        {
+            "description": "KWWL 12p News",
+            "unit_price_gross": 150.0,
+            "price_gross": 300.0
+        },
+        {
+            "description": "Days of Our Lives",
+            "unit_price_gross": 350.0,
+            "price_gross": 700.0
+        },
+        {
+            "description": "Tamron Hall",
+            "unit_price_gross": 45.0,
+            "price_gross": 90.0
+        },
+        {
+            "description": "Jeopardy",
+            "unit_price_gross": 65.0,
+            "price_gross": 130.0
+        },
+        {
+            "description": "25 Words or Less",
+            "unit_price_gross": 65.0,
+            "price_gross": 195.0
+        },
+        {
+            "description": "Inside Edition",
+            "unit_price_gross": 65.0,
+            "price_gross": 195.0
+        },
+        {
+            "description": "Tonight Show",
+            "unit_price_gross": 130.0,
+            "price_gross": 260.0
+        }
+    ]
+}

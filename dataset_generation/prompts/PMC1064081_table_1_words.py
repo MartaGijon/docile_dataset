@@ -1,0 +1,1 @@
+query = """Retrieve the number of patients at risk and the corresponding breast cancer mortality rates for node-negative patients where the estimated log odds of nodal involvement is between -3 and -2."""

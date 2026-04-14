@@ -1,0 +1,14 @@
+{
+    "records": [
+        {
+            "expression_level": "Low",
+            "case_count": 10,
+            "threshold_group": ">3000"
+        },
+        {
+            "expression_level": "High",
+            "case_count": 11,
+            "threshold_group": ">3000"
+        }
+    ]
+}

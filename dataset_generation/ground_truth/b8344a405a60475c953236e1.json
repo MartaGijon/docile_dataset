@@ -1,0 +1,24 @@
+{
+    "items": [
+        {
+            "description": "LIVE 5 NEWS @ 5P",
+            "unit_price_gross": 450.0
+        },
+        {
+            "description": "LIVE 5 NEWS @ 6P",
+            "unit_price_gross": 585.0
+        },
+        {
+            "description": "LIVE 5 NEWS @ 11P",
+            "unit_price_gross": 450.0
+        },
+        {
+            "description": "LIVE 5 NEWS @ 6P SAT",
+            "unit_price_gross": 270.0
+        },
+        {
+            "description": "LIVE 5 NEWS @ 11P SU",
+            "unit_price_gross": 360.0
+        }
+    ]
+}

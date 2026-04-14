@@ -1,0 +1,25 @@
+{
+    "lines": [
+        {
+            "position": 1,
+            "start_date": "10/28/20",
+            "end_date": "11/03/20",
+            "quantity": 16,
+            "price_gross": 1200.0
+        },
+        {
+            "position": 2,
+            "start_date": "10/28/20",
+            "end_date": "11/03/20",
+            "quantity": 14,
+            "price_gross": 1050.0
+        },
+        {
+            "position": 5,
+            "start_date": "10/28/20",
+            "end_date": "11/02/20",
+            "quantity": 14,
+            "price_gross": 1050.0
+        }
+    ]
+}

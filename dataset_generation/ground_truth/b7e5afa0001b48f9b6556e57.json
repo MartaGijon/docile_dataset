@@ -1,0 +1,24 @@
+{
+    "spots": [
+        {
+            "description": "Local News @ 12p M/F12/1230p",
+            "quantity": 5,
+            "price_gross": 1625.0
+        },
+        {
+            "description": "Local News @ 5p M/F 5/530p",
+            "quantity": 5,
+            "price_gross": 3500.0
+        },
+        {
+            "description": "Local News @ 6p M/F 6/630p",
+            "quantity": 5,
+            "price_gross": 3500.0
+        },
+        {
+            "description": "Wheel of Frtune 630/7630/7p",
+            "quantity": 5,
+            "price_gross": 4900.0
+        }
+    ]
+}

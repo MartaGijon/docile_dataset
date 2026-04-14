@@ -1,0 +1,14 @@
+{
+    "records": [
+        {
+            "race": "African-American",
+            "dataset_type": "Full birthweight dataset",
+            "tertile": "Lower tertile",
+            "cases": 38,
+            "controls": 30,
+            "odds_ratio": 1.0,
+            "confidence_interval_lower": 0.5,
+            "confidence_interval_upper": 2.1
+        }
+    ]
+}

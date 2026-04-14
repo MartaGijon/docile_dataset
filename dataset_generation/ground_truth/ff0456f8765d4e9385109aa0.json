@@ -1,0 +1,256 @@
+{
+    "transactions": [
+        {
+            "date": "05/18/22",
+            "description": "M/F 6a/7p",
+            "quantity": 10,
+            "unit_price_gross": 70.0,
+            "price_gross": 700.0
+        },
+        {
+            "date": "05/18/22",
+            "description": "M/F 6a/7p",
+            "quantity": 1,
+            "unit_price_gross": 70.0,
+            "price_gross": 70.0
+        },
+        {
+            "date": "05/18/22",
+            "description": "M/F 6a/7p",
+            "quantity": 3,
+            "unit_price_gross": 70.0,
+            "price_gross": 210.0
+        },
+        {
+            "date": "05/18/22",
+            "description": "M/F 6a/7p",
+            "quantity": 2,
+            "unit_price_gross": 70.0,
+            "price_gross": 140.0
+        },
+        {
+            "date": "05/19/22",
+            "description": "M/F 6a/7p",
+            "quantity": 12,
+            "unit_price_gross": 70.0,
+            "price_gross": 840.0
+        },
+        {
+            "date": "05/19/22",
+            "description": "M/F 6a/7p",
+            "quantity": 6,
+            "unit_price_gross": 70.0,
+            "price_gross": 420.0
+        },
+        {
+            "date": "05/19/22",
+            "description": "M/F 6a/7p",
+            "quantity": 5,
+            "unit_price_gross": 70.0,
+            "price_gross": 350.0
+        },
+        {
+            "date": "05/19/22",
+            "description": "M/F 6a/7p",
+            "quantity": 4,
+            "unit_price_gross": 70.0,
+            "price_gross": 280.0
+        },
+        {
+            "date": "05/20/22",
+            "description": "M/F 6a/7p",
+            "quantity": 8,
+            "unit_price_gross": 70.0,
+            "price_gross": 560.0
+        },
+        {
+            "date": "05/20/22",
+            "description": "M/F 6a/7p",
+            "quantity": 7,
+            "unit_price_gross": 70.0,
+            "price_gross": 490.0
+        },
+        {
+            "date": "05/20/22",
+            "description": "M/F 6a/7p",
+            "quantity": 9,
+            "unit_price_gross": 70.0,
+            "price_gross": 630.0
+        },
+        {
+            "date": "05/20/22",
+            "description": "M/F 6a/7p",
+            "quantity": 11,
+            "unit_price_gross": 70.0,
+            "price_gross": 770.0
+        },
+        {
+            "date": "05/23/22",
+            "description": "M/F 6a/7p",
+            "quantity": 13,
+            "unit_price_gross": 70.0,
+            "price_gross": 910.0
+        },
+        {
+            "date": "05/23/22",
+            "description": "M/F 6a/7p",
+            "quantity": 15,
+            "unit_price_gross": 70.0,
+            "price_gross": 1050.0
+        },
+        {
+            "date": "05/23/22",
+            "description": "M/F 6a/7p",
+            "quantity": 16,
+            "unit_price_gross": 70.0,
+            "price_gross": 1120.0
+        },
+        {
+            "date": "05/23/22",
+            "description": "M/F 6a/7p",
+            "quantity": 14,
+            "unit_price_gross": 70.0,
+            "price_gross": 980.0
+        },
+        {
+            "date": "05/23/22",
+            "description": "M/F 6a/7p",
+            "quantity": 34,
+            "unit_price_gross": 70.0,
+            "price_gross": 2380.0
+        },
+        {
+            "date": "05/24/22",
+            "description": "M/F 6a/7p",
+            "quantity": 20,
+            "unit_price_gross": 70.0,
+            "price_gross": 1400.0
+        },
+        {
+            "date": "05/24/22",
+            "description": "M/F 6a/7p",
+            "quantity": 18,
+            "unit_price_gross": 70.0,
+            "price_gross": 1260.0
+        },
+        {
+            "date": "05/24/22",
+            "description": "M/F 6a/7p",
+            "quantity": 19,
+            "unit_price_gross": 70.0,
+            "price_gross": 1330.0
+        },
+        {
+            "date": "05/24/22",
+            "description": "M/F 6a/7p",
+            "quantity": 33,
+            "unit_price_gross": 70.0,
+            "price_gross": 2310.0
+        },
+        {
+            "date": "05/24/22",
+            "description": "M/F 6a/7p",
+            "quantity": 17,
+            "unit_price_gross": 70.0,
+            "price_gross": 1190.0
+        },
+        {
+            "date": "05/25/22",
+            "description": "M/F 6a/7p",
+            "quantity": 36,
+            "unit_price_gross": 70.0,
+            "price_gross": 2520.0
+        },
+        {
+            "date": "05/25/22",
+            "description": "M/F 6a/7p",
+            "quantity": 21,
+            "unit_price_gross": 70.0,
+            "price_gross": 1470.0
+        },
+        {
+            "date": "05/25/22",
+            "description": "M/F 6a/7p",
+            "quantity": 24,
+            "unit_price_gross": 70.0,
+            "price_gross": 1680.0
+        },
+        {
+            "date": "05/25/22",
+            "description": "M/F 6a/7p",
+            "quantity": 22,
+            "unit_price_gross": 70.0,
+            "price_gross": 1540.0
+        },
+        {
+            "date": "05/25/22",
+            "description": "M/F 6a/7p",
+            "quantity": 23,
+            "unit_price_gross": 70.0,
+            "price_gross": 1610.0
+        },
+        {
+            "date": "05/26/22",
+            "description": "M/F 6a/7p",
+            "quantity": 25,
+            "unit_price_gross": 70.0,
+            "price_gross": 1750.0
+        },
+        {
+            "date": "05/26/22",
+            "description": "M/F 6a/7p",
+            "quantity": 26,
+            "unit_price_gross": 70.0,
+            "price_gross": 1820.0
+        },
+        {
+            "date": "05/26/22",
+            "description": "M/F 6a/7p",
+            "quantity": 27,
+            "unit_price_gross": 70.0,
+            "price_gross": 1890.0
+        },
+        {
+            "date": "05/26/22",
+            "description": "M/F 6a/7p",
+            "quantity": 28,
+            "unit_price_gross": 70.0,
+            "price_gross": 1960.0
+        },
+        {
+            "date": "05/26/22",
+            "description": "M/F 6a/7p",
+            "quantity": 35,
+            "unit_price_gross": 70.0,
+            "price_gross": 2450.0
+        },
+        {
+            "date": "05/27/22",
+            "description": "M/F 6a/7p",
+            "quantity": 30,
+            "unit_price_gross": 70.0,
+            "price_gross": 2100.0
+        },
+        {
+            "date": "05/27/22",
+            "description": "M/F 6a/7p",
+            "quantity": 29,
+            "unit_price_gross": 70.0,
+            "price_gross": 2030.0
+        },
+        {
+            "date": "05/27/22",
+            "description": "M/F 6a/7p",
+            "quantity": 31,
+            "unit_price_gross": 70.0,
+            "price_gross": 2170.0
+        },
+        {
+            "date": "05/27/22",
+            "description": "M/F 6a/7p",
+            "quantity": 32,
+            "unit_price_gross": 70.0,
+            "price_gross": 2240.0
+        }
+    ]
+}

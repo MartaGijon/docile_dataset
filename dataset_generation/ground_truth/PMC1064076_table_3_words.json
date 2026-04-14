@@ -1,0 +1,31 @@
+{
+    "stratification_variable": "Total vegetables",
+    "stratification_level": "> Median",
+    "population_group": "Postmenopausal women",
+    "genotypes": [
+        {
+            "genotype": "Val/Val",
+            "cases_controls": "133/153",
+            "odds_ratio": 1.0,
+            "confidence_interval_lower": null,
+            "confidence_interval_upper": null,
+            "is_reference": true
+        },
+        {
+            "genotype": "Val/Ala",
+            "cases_controls": "36/58",
+            "odds_ratio": 0.7,
+            "confidence_interval_lower": 0.5,
+            "confidence_interval_upper": 1.2,
+            "is_reference": false
+        },
+        {
+            "genotype": "Ala/Ala",
+            "cases_controls": "3/5",
+            "odds_ratio": 0.8,
+            "confidence_interval_lower": 0.2,
+            "confidence_interval_upper": 3.3,
+            "is_reference": false
+        }
+    ]
+}

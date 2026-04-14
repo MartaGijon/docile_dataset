@@ -1,0 +1,1 @@
+query = """Retrieve the count and percentage of cases and controls for the 'Maternal age dataset' where the main exposure is 'Birth order' and 'Maternal age', specifically for the African-American and White groups."""

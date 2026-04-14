@@ -1,0 +1,1 @@
+query = """Retrieve the minimally adjusted odds ratios and their 95% confidence intervals for African-American women who were born 2nd through 4th, specifically from the 'Case' and 'Control' columns under the 'Minimally adjusted ORa' section."""

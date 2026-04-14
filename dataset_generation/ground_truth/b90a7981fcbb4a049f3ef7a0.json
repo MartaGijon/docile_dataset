@@ -1,0 +1,28 @@
+{
+    "transactions": [
+        {
+            "transaction_date": "Fri 10/30/20",
+            "description": "FIGHTING FOR FAIRBANKS",
+            "unit_price_gross": 15.0,
+            "price_gross": 15.0
+        },
+        {
+            "transaction_date": "Fri 10/30/20",
+            "description": "FIGHTING FOR FAIRBANKS",
+            "unit_price_gross": 15.0,
+            "price_gross": 15.0
+        },
+        {
+            "transaction_date": "Fri 10/30/20",
+            "description": "FIGHTING FOR FAIRBANKS",
+            "unit_price_gross": 15.0,
+            "price_gross": 15.0
+        },
+        {
+            "transaction_date": "Fri 10/30/20",
+            "description": "FIGHTING FOR FAIRBANKS",
+            "unit_price_gross": 15.0,
+            "price_gross": 15.0
+        }
+    ]
+}

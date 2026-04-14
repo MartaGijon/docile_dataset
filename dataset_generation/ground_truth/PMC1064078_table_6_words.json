@@ -1,0 +1,13 @@
+{
+    "stats": [
+        {
+            "birth_order": "2nd-4th born",
+            "race": "African-American",
+            "case_count": 142,
+            "control_count": 151,
+            "odds_ratio": 0.8,
+            "ci_lower": 0.6,
+            "ci_upper": 1.2
+        }
+    ]
+}

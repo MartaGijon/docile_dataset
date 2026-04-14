@@ -1,0 +1,104 @@
+{
+    "spots": [
+        {
+            "description": "TMZ Live",
+            "unit_price_gross": 35.0,
+            "price_gross": 35.0
+        },
+        {
+            "description": "WCTI Morning News on Fox",
+            "unit_price_gross": 40.0,
+            "price_gross": 80.0
+        },
+        {
+            "description": "Hot Bench",
+            "unit_price_gross": 45.0,
+            "price_gross": 45.0
+        },
+        {
+            "description": "TMZ",
+            "unit_price_gross": 45.0,
+            "price_gross": 90.0
+        },
+        {
+            "description": "Hot Bench",
+            "unit_price_gross": 50.0,
+            "price_gross": 100.0
+        },
+        {
+            "description": "Maury",
+            "unit_price_gross": 55.0,
+            "price_gross": 55.0
+        },
+        {
+            "description": "Big Bang Theory",
+            "unit_price_gross": 190.0,
+            "price_gross": 190.0
+        },
+        {
+            "description": "FOX Eastern Carolina News 10p Sat",
+            "unit_price_gross": 205.0,
+            "price_gross": 205.0
+        },
+        {
+            "description": "FOX Eastern Carolina News 10p Sun",
+            "unit_price_gross": 210.0,
+            "price_gross": 210.0
+        },
+        {
+            "description": "Big Bang Theory",
+            "unit_price_gross": 240.0,
+            "price_gross": 480.0
+        },
+        {
+            "description": "FOX Eastern Carolina News 10p",
+            "unit_price_gross": 245.0,
+            "price_gross": 490.0
+        },
+        {
+            "description": "FOX Eastern Carolina News 10p",
+            "unit_price_gross": 245.0,
+            "price_gross": 1225.0
+        },
+        {
+            "description": "Big Bang Theory",
+            "unit_price_gross": 250.0,
+            "price_gross": 750.0
+        },
+        {
+            "description": "FOX NFL SUNDAY",
+            "unit_price_gross": 350.0,
+            "price_gross": 350.0
+        },
+        {
+            "description": "Friday Night SmackDown/FOX",
+            "unit_price_gross": 430.0,
+            "price_gross": 430.0
+        },
+        {
+            "description": "COLLEGE FOOTBALL EARLY",
+            "unit_price_gross": 550.0,
+            "price_gross": 550.0
+        },
+        {
+            "description": "COSMOS: POSSIBLE WORLDS",
+            "unit_price_gross": 550.0,
+            "price_gross": 550.0
+        },
+        {
+            "description": "L.A.'S FINEST",
+            "unit_price_gross": 800.0,
+            "price_gross": 800.0
+        },
+        {
+            "description": "Thursday Night Football",
+            "unit_price_gross": 1820.0,
+            "price_gross": 1820.0
+        },
+        {
+            "description": "FOX NFL EARLY GAME",
+            "unit_price_gross": 4115.0,
+            "price_gross": 4115.0
+        }
+    ]
+}

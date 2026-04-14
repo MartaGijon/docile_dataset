@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "factor_category": "Age",
+            "sub_category": "\u226550",
+            "low_expression_count": 16,
+            "low_expression_percentage": 44.0,
+            "high_expression_count": 32,
+            "high_expression_percentage": 67.0
+        },
+        {
+            "factor_category": "Tumour size",
+            "sub_category": "T2 (>2.0 cm to \u22645.0 cm)",
+            "low_expression_count": 18,
+            "low_expression_percentage": 50.0,
+            "high_expression_count": 25,
+            "high_expression_percentage": 52.0
+        }
+    ]
+}

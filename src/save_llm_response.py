@@ -1,8 +1,9 @@
 import os
 import json
+from src.data_treatment import normalize_pub, normalize_docile_post
 
 
-def save_llm_output(response, file_name):
+def save_llm_output(response, file_name, data_type):
     # 1. Define folder names
     folders = {
         "prompts": "dataset_generation/prompts",
@@ -16,7 +17,9 @@ def save_llm_output(response, file_name):
 
     # 2. Define the contents
     # Content 1: Prompt saved as a Python variable
-    prompt_content = f"query= '{str(response.query)}'"
+    query_text = str(response.query)
+    safe_query_text = query_text.replace('"', "'")
+    prompt_content = f'query= """{safe_query_text}"""\n'
 
     # Content 2: Pydantic classes with their necessary imports
     pydantic_content = response.pydantic_model
@@ -40,7 +43,20 @@ def save_llm_output(response, file_name):
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump(ground_truth_data, f, indent=4)
 
-    print(f"✅ Files successfully generated for '{file_name}':")
-    print(f"  - {prompt_path}")
-    print(f"  - {pydantic_path}")
-    print(f"  - {json_path}")
+    if data_type == "docile":
+        with open(json_path, "r", encoding="utf-8") as f:
+            ground_truth = json.load(f)
+        ground_truth_normalized = normalize_docile_post(ground_truth)
+
+        with open(json_path, "w", encoding="utf-8") as f:
+            json.dump(ground_truth_normalized, f, indent=4)
+
+    if data_type == "pub":
+        with open(json_path, "r", encoding="utf-8") as f:
+            ground_truth = json.load(f)
+        ground_truth_normalized = normalize_pub(ground_truth)
+
+        with open(json_path, "w", encoding="utf-8") as f:
+            json.dump(ground_truth_normalized, f, indent=4)
+
+    print(f"Files successfully generated for '{file_name}':")

@@ -1,0 +1,29 @@
+{
+    "items": [
+        {
+            "description": "World News Now",
+            "unit_price_gross": 30.0,
+            "price_gross": 30.0
+        },
+        {
+            "description": "Local 5 News Midday",
+            "unit_price_gross": 150.0,
+            "price_gross": 150.0
+        },
+        {
+            "description": "Local 5 News at FIVE",
+            "unit_price_gross": 250.0,
+            "price_gross": 250.0
+        },
+        {
+            "description": "Local 5 News at TEN",
+            "unit_price_gross": 250.0,
+            "price_gross": 250.0
+        },
+        {
+            "description": "Local 5 News At 10P/Sun",
+            "unit_price_gross": 150.0,
+            "price_gross": 150.0
+        }
+    ]
+}

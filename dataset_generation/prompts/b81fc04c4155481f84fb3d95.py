@@ -1,0 +1,1 @@
+query = """I need to pull a report for all weekend shifts scheduled between October 16th and October 22nd, specifically showing the shift description, the number of hours (quantity), and the gross unit price, but I only want to see the entries where the shift is on Saturday or Sunday."""

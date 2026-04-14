@@ -1,0 +1,1 @@
+query = """Retrieve the odds ratios and 95% confidence intervals for the association between breast cancer and manganese superoxide dismutase polymorphism specifically for postmenopausal women with a total vegetable intake greater than the median, stratified by Val/Val, Val/Ala, and Ala/Ala genotypes."""

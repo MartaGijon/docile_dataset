@@ -1,0 +1,29 @@
+{
+    "transactions": [
+        {
+            "description": "News/CRS 12 News at 10p on CW34",
+            "code": "PLFL601TVH",
+            "price_gross": 450.0
+        },
+        {
+            "description": "News/CBS 12 News at 10p on",
+            "code": "PLFL447TVH",
+            "price_gross": 450.0
+        },
+        {
+            "description": "News/CBS 12 News at 9a",
+            "code": "PLFL604TVH",
+            "price_gross": 40.0
+        },
+        {
+            "description": "News/CBS 12 News at 9a",
+            "code": "PLFL604TVH",
+            "price_gross": 40.0
+        },
+        {
+            "description": "News/CBS 12 News at 930a",
+            "code": "PLFL601TVH",
+            "price_gross": 40.0
+        }
+    ]
+}

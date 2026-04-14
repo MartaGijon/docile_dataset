@@ -1,0 +1,1 @@
+query = """Retrieve the number of cases and controls, along with the minimally adjusted odds ratio and its 95% confidence interval, specifically for the 'Lower tertile' birthweight group within the 'Full birthweight dataset'."""

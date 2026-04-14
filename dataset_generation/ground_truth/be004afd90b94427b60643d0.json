@@ -1,0 +1,16 @@
+{
+    "transactions": [
+        {
+            "code": "Normal Line / SPOT",
+            "price_gross": 900.0
+        },
+        {
+            "code": "Normal Line / SPOT",
+            "price_gross": 900.0
+        },
+        {
+            "code": "Normal Line / SPOT",
+            "price_gross": 900.0
+        }
+    ]
+}

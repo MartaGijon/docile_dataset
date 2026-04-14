@@ -1,0 +1,1 @@
+query = """Retrieve all line items for digital services and physical media, specifically selecting the item description, the number of units ordered, and the total net cost for each line, while excluding any tax or shipping details."""

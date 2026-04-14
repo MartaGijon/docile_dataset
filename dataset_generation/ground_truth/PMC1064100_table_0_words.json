@@ -1,0 +1,9 @@
+{
+    "records": [
+        {
+            "genotype": "CC",
+            "affected_daughters": 10,
+            "unaffected_sons": 11
+        }
+    ]
+}

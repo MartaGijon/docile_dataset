@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "cell_type": "NAF",
+            "sample_id": "NAF-1",
+            "igf_ii_level": 49.25,
+            "igf_ii_mean": 9.68
+        },
+        {
+            "cell_type": "NAF",
+            "sample_id": "NAF-2",
+            "igf_ii_level": 45.0,
+            "igf_ii_mean": 10.22
+        },
+        {
+            "cell_type": "NAF",
+            "sample_id": "NAF-3",
+            "igf_ii_level": 68.14,
+            "igf_ii_mean": 10.27
+        },
+        {
+            "cell_type": "CAF",
+            "sample_id": "CAF-1",
+            "igf_ii_level": 70.64,
+            "igf_ii_mean": 10.01
+        },
+        {
+            "cell_type": "CAF",
+            "sample_id": "CAF-2",
+            "igf_ii_level": 52.37,
+            "igf_ii_mean": 10.88
+        },
+        {
+            "cell_type": "CAF",
+            "sample_id": "CAF-3",
+            "igf_ii_level": 52.96,
+            "igf_ii_mean": 9.96
+        }
+    ]
+}

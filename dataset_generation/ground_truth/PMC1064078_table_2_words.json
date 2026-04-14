@@ -1,0 +1,12 @@
+{
+    "stats": [
+        {
+            "tertile_group": "Lower tertile",
+            "cases_count": 73,
+            "controls_count": 57,
+            "odds_ratio_minimally_adjusted": 0.9,
+            "confidence_interval_lower": 0.6,
+            "confidence_interval_upper": 1.6
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+query = """Retrieve the count and percentage of patients with high LPA2 expression who are aged 50 or older, and also retrieve the count and percentage of patients with high LPA2 expression who have a tumor size greater than 2.0 cm up to 5.0 cm."""

@@ -1,0 +1,24 @@
+{
+    "criteria": [
+        {
+            "category": "Inclusion",
+            "criterion_text": "Female sex",
+            "relevant_field": "Sex"
+        },
+        {
+            "category": "Inclusion",
+            "criterion_text": "Age older than 21 years",
+            "relevant_field": "Age"
+        },
+        {
+            "category": "Exclusion",
+            "criterion_text": "Pregnancy",
+            "relevant_field": "Pregnancy"
+        },
+        {
+            "category": "Exclusion",
+            "criterion_text": "Recurrent disease",
+            "relevant_field": "Disease"
+        }
+    ]
+}

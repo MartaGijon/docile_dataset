@@ -1,0 +1,12 @@
+{
+    "records": [
+        {
+            "tumor_stage": "T1",
+            "patient_count": 222
+        },
+        {
+            "tumor_stage": "T2",
+            "patient_count": 265
+        }
+    ]
+}

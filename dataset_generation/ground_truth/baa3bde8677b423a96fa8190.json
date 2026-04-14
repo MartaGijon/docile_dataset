@@ -1,0 +1,20 @@
+{
+    "items": [
+        {
+            "time_period": "Morning, M/F, 6a/10am, 30",
+            "total_gross_price": 76.5
+        },
+        {
+            "time_period": "Morning, M/F, 6a/10am, 30",
+            "total_gross_price": 336.6
+        },
+        {
+            "time_period": "Midday, M/F, 10a/3pm, 30",
+            "total_gross_price": 351.9
+        },
+        {
+            "time_period": "Midday, M/F, 10a/3pm, 30",
+            "total_gross_price": 76.5
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+query = """Retrieve the odds ratios and 95% confidence intervals for postmenopausal women with total PCB levels greater than or equal to 0.349 ng/ml and any CYP1A1 M4 genotype, excluding the referent group."""

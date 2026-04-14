@@ -1,0 +1,1 @@
+query = """Retrieve the distribution of nuclear families where the mother is a carrier of the CYP17 1/0 variant and the father is a non-carrier, specifically showing the count of affected and unaffected daughters."""

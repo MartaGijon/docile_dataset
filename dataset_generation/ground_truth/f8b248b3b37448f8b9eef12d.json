@@ -1,0 +1,14 @@
+{
+    "spots": [
+        {
+            "description": "M/F 830/9a News",
+            "price_gross": 350.0,
+            "quantity": 2
+        },
+        {
+            "description": "M/Su 10/1030p News",
+            "price_gross": 750.0,
+            "quantity": 2
+        }
+    ]
+}

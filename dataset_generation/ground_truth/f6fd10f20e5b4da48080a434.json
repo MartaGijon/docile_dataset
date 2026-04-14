@@ -1,0 +1,14 @@
+{
+    "spots": [
+        {
+            "description": "HAWAII NEWS NOW @630P KFVE",
+            "unit_price_gross": 275.0,
+            "price_gross": 275.0
+        },
+        {
+            "description": "HAWAII NEWS NOW @9P KFVE",
+            "unit_price_gross": 450.0,
+            "price_gross": 450.0
+        }
+    ]
+}

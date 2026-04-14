@@ -1,0 +1,1 @@
+query = """Retrieve the IGF II levels and their corresponding means for normal breast-associated fibroblasts (NAF) and carcinoma-associated fibroblasts (CAF) from the monoculture experiments, excluding the MCF10AT cell line data."""

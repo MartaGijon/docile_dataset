@@ -1,0 +1,1 @@
+query = """Retrieve the hazard ratios and their 95% confidence intervals for node-positive patients where the nodal variable is 'np' (node-positive) or 'L' (lymphatic invasion), excluding the 'no nodal variables' baseline case."""

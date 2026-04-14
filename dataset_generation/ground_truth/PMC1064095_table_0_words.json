@@ -1,0 +1,13 @@
+{
+    "records": [
+        {
+            "population_group": "African Americans",
+            "pcb_level": "\u22650.430",
+            "genotype": "Any M1",
+            "patients_controls": "59/54",
+            "odds_ratio": 1.4,
+            "confidence_interval": "(0.8-2.5)",
+            "menopausal_status": "Premenopausal"
+        }
+    ]
+}

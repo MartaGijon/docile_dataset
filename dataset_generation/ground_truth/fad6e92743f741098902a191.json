@@ -1,0 +1,19 @@
+{
+    "lines": [
+        {
+            "position": 1,
+            "end_date": "02/28/20",
+            "total_gross_price": 224.0
+        },
+        {
+            "position": 2,
+            "end_date": "02/28/20",
+            "total_gross_price": 168.0
+        },
+        {
+            "position": 3,
+            "end_date": "02/28/20",
+            "total_gross_price": 224.0
+        }
+    ]
+}

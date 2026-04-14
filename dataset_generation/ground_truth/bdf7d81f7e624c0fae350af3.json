@@ -1,0 +1,20 @@
+{
+    "items": [
+        {
+            "description": "WLTV 6A NEWS",
+            "unit_price_gross": 425.0
+        },
+        {
+            "description": "DESPIERTA AMERICA",
+            "unit_price_gross": 1000.0
+        },
+        {
+            "description": "DESPIERTA AMERICA",
+            "unit_price_gross": 1000.0
+        },
+        {
+            "description": "WLTV 6P NEWS",
+            "unit_price_gross": 3500.0
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+query = """Retrieve the odds ratios and 95% confidence intervals for breast cancer risk associated with total PCB levels greater than or equal to 0.349 ng/ml specifically for postmenopausal women who carry the CYP1A1 M2 genotype."""

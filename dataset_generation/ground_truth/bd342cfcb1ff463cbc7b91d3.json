@@ -1,0 +1,40 @@
+{
+    "items": [
+        {
+            "quantity": 7,
+            "amount_net": 41.16,
+            "unit_price_gross": 5.88,
+            "price_gross": 41.16
+        },
+        {
+            "quantity": 7,
+            "amount_net": 41.16,
+            "unit_price_gross": 5.88,
+            "price_gross": 41.16
+        },
+        {
+            "quantity": 9,
+            "amount_net": 52.92,
+            "unit_price_gross": 5.88,
+            "price_gross": 52.92
+        },
+        {
+            "quantity": 2,
+            "amount_net": 11.76,
+            "unit_price_gross": 5.88,
+            "price_gross": 11.76
+        },
+        {
+            "quantity": 2,
+            "amount_net": 11.76,
+            "unit_price_gross": 5.88,
+            "price_gross": 11.76
+        },
+        {
+            "quantity": 1,
+            "amount_net": 5.88,
+            "unit_price_gross": 5.88,
+            "price_gross": 5.88
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+query = """Retrieve the frequency counts and percentages for 'Ca ductale' and 'Ca lobulare' histology types specifically within the 'BRCA1' and 'BRCA2' patient groups, excluding the 'Non-BRCA1/2' and 'Unselected' columns."""

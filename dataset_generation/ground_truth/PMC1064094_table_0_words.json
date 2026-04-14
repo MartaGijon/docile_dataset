@@ -1,0 +1,64 @@
+{
+    "items": [
+        {
+            "carcinoma_type": "Invasive ductal",
+            "location": "Carcinoma",
+            "hpv_dna_positive_count": 16
+        },
+        {
+            "carcinoma_type": "Invasive ductal",
+            "location": "Nipple",
+            "hpv_dna_positive_count": 11
+        },
+        {
+            "carcinoma_type": "Medullary",
+            "location": "Carcinoma",
+            "hpv_dna_positive_count": 4
+        },
+        {
+            "carcinoma_type": "Medullary",
+            "location": "Nipple",
+            "hpv_dna_positive_count": 3
+        },
+        {
+            "carcinoma_type": "Tubular",
+            "location": "Carcinoma",
+            "hpv_dna_positive_count": 3
+        },
+        {
+            "carcinoma_type": "Tubular",
+            "location": "Nipple",
+            "hpv_dna_positive_count": 3
+        },
+        {
+            "carcinoma_type": "Lobular",
+            "location": "Carcinoma",
+            "hpv_dna_positive_count": 1
+        },
+        {
+            "carcinoma_type": "Lobular",
+            "location": "Nipple",
+            "hpv_dna_positive_count": 2
+        },
+        {
+            "carcinoma_type": "Mucinous",
+            "location": "Carcinoma",
+            "hpv_dna_positive_count": 1
+        },
+        {
+            "carcinoma_type": "Mucinous",
+            "location": "Nipple",
+            "hpv_dna_positive_count": 1
+        },
+        {
+            "carcinoma_type": "Total carcinoma",
+            "location": "Carcinoma",
+            "hpv_dna_positive_count": 25
+        },
+        {
+            "carcinoma_type": "Total carcinoma",
+            "location": "Nipple",
+            "hpv_dna_positive_count": 20
+        }
+    ]
+}

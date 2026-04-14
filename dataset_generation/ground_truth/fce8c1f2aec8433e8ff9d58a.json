@@ -1,0 +1,14 @@
+{
+    "items": [
+        {
+            "description": "MIDDLE 2",
+            "unit_price_gross": 20.0,
+            "price_gross": 20.0
+        },
+        {
+            "description": "THE MIDDLE 1",
+            "unit_price_gross": 20.0,
+            "price_gross": 20.0
+        }
+    ]
+}

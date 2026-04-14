@@ -1,0 +1,20 @@
+{
+    "transactions": [
+        {
+            "description": "Contract Line Remarks: FOX Illinois Sunrise",
+            "price_gross": 30.0
+        },
+        {
+            "description": "Contract Line Remarks: Family Feud",
+            "price_gross": 150.0
+        },
+        {
+            "description": "Contract Line Remarks: FOX News at 5:30p",
+            "price_gross": 250.0
+        },
+        {
+            "description": "Contract Line Remarks: Big Bang Theory",
+            "price_gross": 400.0
+        }
+    ]
+}
